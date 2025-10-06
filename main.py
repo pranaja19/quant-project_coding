@@ -1,1 +1,1 @@
-print("kontol")
+print("Hallo, Welt!")
